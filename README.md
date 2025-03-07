@@ -1,6 +1,6 @@
 # Head Shape and Age Analysis
 
-## Introdution
+## Introduction
 This repository contains the computational aspects of an MSc thesis project in biology, focused on analyzing head shape dimensions and their correlation with age. The analysis includes various statistical methods, classification models and machine learning techniques to explore the relationships between biometric features and age groups. Note: This project is part of my colleague's MSc thesis in biology and I am assisting with the computational analysis.
 
 ## Features
